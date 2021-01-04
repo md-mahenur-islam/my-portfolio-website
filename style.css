@@ -7,3 +7,13 @@ body h3{
 .name-highlight{
     color:#5656d6;
 }
+.half-width{
+    width:30%;
+    float:left;
+    margin: 5%;
+    padding: 2%;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
